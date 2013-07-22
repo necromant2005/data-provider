@@ -1,7 +1,7 @@
 {
-    "name": "necromant2005/tt-html",
+    "name": "necromant2005/tt-provider",
     "type": "library",
-    "description": "Html parser unility class for ZF2",
+    "description": "List of traits for everyday usage",
     "keywords": ["html", "parser", "query", "zf2"],
     "homepage": "https://github.com/necromant2005/tt-html",
     "license": "MIT",
