@@ -2,7 +2,7 @@
     "name": "necromant2005/tt-provider",
     "type": "library",
     "description": "List of traits for everyday usage",
-    "keywords": ["html", "parser", "query", "zf2"],
+    "keywords": ["traits", "setter", "getter", "construct", "utility"],
     "homepage": "https://github.com/necromant2005/tt-html",
     "license": "MIT",
     "authors": [
