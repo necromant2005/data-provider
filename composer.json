@@ -3,7 +3,7 @@
     "type": "library",
     "description": "List of traits for everyday usage",
     "keywords": ["traits", "setter", "getter", "construct", "utility"],
-    "homepage": "https://github.com/necromant2005/tt-html",
+    "homepage": "https://github.com/necromant2005/tt-provider",
     "license": "MIT",
     "authors": [
         {
